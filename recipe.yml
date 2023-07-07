@@ -68,7 +68,6 @@ rpm:
     - imv
     - pinentry-gnome3
     - wl-clipboard
-    - xdg-desktop-portal-wlr
     - xdg-desktop-portal-hyprland
     - polkit
     - polkit-kde
